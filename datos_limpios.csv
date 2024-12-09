@@ -1,0 +1,38 @@
+ID,Name,Category,City,Value,Date,Validacion_Date,Fecha
+1,Charlie,CC,Chicago,46.0,2023-04-13,Válido,2023-04-13
+2,Jane,CC,Houston,53.0,2023-12-15,Válido,2023-12-15
+3,Jane,CA,Chicago,68.0,2023-09-28,Válido,2023-09-28
+5,Jane,CC,Houston,71.0,2023-03-13,Válido,2023-03-13
+6,Eve,CA,Los Angeles,61.0,2023-08-07,Válido,2023-08-07
+7,Jane,CA,Chicago,48.0,2023-01-21,Válido,2023-01-21
+8,Bob,CB,New York,65.0,2023-04-13,Válido,2023-04-13
+10,Dave,CB,Los Angeles,11.0,2023-03-08,Válido,2023-03-08
+12,Dave,CA,Houston,10.0,2023-03-29,Válido,2023-03-29
+13,Bob,CC,Chicago,11.0,2023-10-04,Válido,2023-10-04
+16,Dave,CA,Houston,64.0,2023-11-05,Válido,2023-11-05
+19,John,CA,Houston,79.0,2023-09-15,Válido,2023-09-15
+20,Bob,CA,Chicago,25.0,2023-10-12,Válido,2023-10-12
+21,Jane,CB,Houston,68.0,2023-10-21,Válido,2023-10-21
+23,Bob,CB,Houston,68.0,2023-04-10,Válido,2023-04-10
+24,Jane,CB,Chicago,99.0,2023-10-06,Válido,2023-10-06
+25,Charlie,CA,Chicago,28.0,2023-10-11,Válido,2023-10-11
+27,Charlie,CB,Los Angeles,42.0,2023-10-09,Válido,2023-10-09
+28,Jane,CA,Los Angeles,48.0,2023-08-24,Válido,2023-08-24
+29,Bob,CB,Houston,10.0,2023-11-12,Válido,2023-11-12
+30,Charlie,CC,New York,66.0,2023-02-18,Válido,2023-02-18
+31,Eve,CA,Houston,32.0,2023-02-28,Válido,2023-02-28
+37,Jane,CA,Chicago,46.0,2023-02-20,Válido,2023-02-20
+38,Charlie,CB,Los Angeles,18.0,2023-12-30,Válido,2023-12-30
+40,Charlie,CA,New York,12.0,2023-01-09,Válido,2023-01-09
+43,Dave,CC,New York,81.0,2023-03-11,Válido,2023-03-11
+44,Grace,CC,Chicago,93.0,2023-05-15,Válido,2023-05-15
+45,Charlie,CB,New York,98.0,2023-01-21,Válido,2023-01-21
+47,Bob,CC,Houston,91.0,2023-06-16,Válido,2023-06-16
+48,John,CB,New York,44.0,2023-01-10,Válido,2023-01-10
+49,Charlie,CB,Chicago,50.0,2023-03-30,Válido,2023-03-30
+50,Grace,CA,Chicago,77.0,2023-12-11,Válido,2023-12-11
+40,Charlie,CA,New York,12.0,2023-01-09,Válido,2023-01-09
+31,Eve,CA,Houston,32.0,2023-02-28,Válido,2023-02-28
+49,Charlie,CB,Chicago,50.0,2023-03-30,Válido,2023-03-30
+27,Charlie,CB,Los Angeles,42.0,2023-10-09,Válido,2023-10-09
+20,Bob,CA,Chicago,25.0,2023-10-12,Válido,2023-10-12
